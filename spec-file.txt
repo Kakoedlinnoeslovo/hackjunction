@@ -9,7 +9,6 @@ https://repo.continuum.io/pkgs/free/osx-64/anaconda-custom-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/anaconda-client-1.6.3-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/anaconda-navigator-1.6.2-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/anaconda-project-0.6.0-py27_0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/appnope-0.1.0-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/appscript-1.0.1-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/asn1crypto-0.22.0-py27_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/astroid-1.4.9-py27_0.tar.bz2
